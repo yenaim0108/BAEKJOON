@@ -1,0 +1,10 @@
+package step01_IOnCalculations;
+
+public class Quiz_02_10718 {
+	
+	public static void main(String[] args) {
+		// 출력
+		System.out.println("����ģ�� ��������\n����ģ�� ��������");
+	}
+
+}
